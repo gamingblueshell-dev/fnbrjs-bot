@@ -1,0 +1,21 @@
+{
+  "name": "fnbrjs-bot",
+  "version": "0.0.1",
+  "description": "A simple lobby bot for fornite using the fnbr.js library.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fnbr": "https://github.com/fnbrjs/fnbr.js.git",
+    "node-fetch": "^2.6.1",
+    "fortnite-api-com": "^2.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/distrust1/fnbr-bot"
+  },
+  "license": "MIT"
+}
